@@ -22,5 +22,18 @@
     text-align: center;
 }
 .d{
-    text-align: center
+    text-align: center;
+
+}
+.d{
+    text-align: center;
+    background-image: url("../assets/backgrounds/c_image.jpg");
+    height: 90px;
+    padding-top: 200px;
+    background-size: cover;
+
+}
+#us{
+    text-align: center;
+    float: down;
 }
