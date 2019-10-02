@@ -1,5 +1,5 @@
 .img{
-    background-image: url("./assets/backgrounds/h_img.jpg");
+    background-image: url("./Delani-studio/assets/backgrounds/h_img.jpg");
      color: antiquewhite;
     text-align: center;
     background-size: cover;
@@ -10,7 +10,7 @@
     text-align: center
 }
 .x{
-    background-image: url("./assets/backgrounds/s_image.jpg");
+    background-image: url("./Delani-studio/assets/backgrounds/s_image.jpg");
     background-size: cover;
     height: 300;
     padding-top: 100px;
@@ -28,7 +28,7 @@
 }
 .d{
     
-    background-image: url("./assets/backgrounds/c_image.jpg");
+    background-image: url("./Delani-studio/assets/backgrounds/c_image.jpg");
     height:50vh ;
 }
 .name{
