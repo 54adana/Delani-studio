@@ -18,6 +18,9 @@
     padding-top: 100px;
 
 }
+*{
+    overflow-x: hidden;
+}
 .y{
     text-align: center;
 }
@@ -26,14 +29,37 @@
 
 }
 .d{
-    text-align: center;
+    
     background-image: url("../assets/backgrounds/c_image.jpg");
-    height: 90px;
-    padding-top: 200px;
-    background-size: cover;
-
+    height:50vh ;
+}
+.name{
+    float: right; 
+    margin-right: 40%;
+    text-align: center;
+    padding-left: 3px;
+    background-color: transparent;
+}
+.email{
+    margin: 2px solid white;
+    margin-left: 25%;
+    background-color: transparent
 }
 #us{
-    text-align: center;
-    float: down;
+    background-color: transparent;
+    height: 30%px;
+    width: 300px;
+    margin-right: 100%;
+    margin: 2px solid white;
+}
+.message{
+
+    margin-left: 40%;
+    width: 200px;}
+
+   #user{background-color: transparent;
+
+}
+#submit buton{
+    color: white
 }
