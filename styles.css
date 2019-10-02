@@ -1,16 +1,16 @@
 .img{
-    background-image: url("../assets/backgrounds/h_img.jpg");
+    background-image: url("./assets/backgrounds/h_img.jpg");
      color: antiquewhite;
     text-align: center;
     background-size: cover;
-    height: 680px;
+    height: 100vh;
     padding-top: 250px;
 }
 .pic{
     text-align: center
 }
 .x{
-    background-image: url("../assets/backgrounds/s_image.jpg");
+    background-image: url("./assets/backgrounds/s_image.jpg");
     text-align: center;
     background-size: cover;
     height: 300px;
@@ -38,7 +38,7 @@
     margin-right: 40%;
     text-align: center;
     padding-left: 3px;
-    background-color: transparent;
+
 }
 .email{
     margin: 2px solid white;
